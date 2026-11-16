@@ -1,0 +1,22 @@
+# Gradle
+.gradle/
+**/.gradle/
+
+# Build outputs
+build/
+**/build/
+
+bin/
+**/bin/
+
+# Gradle cache and temporary files
+.gradle-cache/
+gradle-app.setting
+!gradle-wrapper.jar
+
+# Gradle daemon logs
+*.hprof
+
+# IDE files
+.idea/
+*.iml
